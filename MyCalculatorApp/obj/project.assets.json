@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/kiran.lakhani/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kiran.lakhani/csharpProject/MyCalculatorApp/MyCalculatorApp.csproj",
+      "projectName": "MyCalculatorApp",
+      "projectPath": "/Users/kiran.lakhani/csharpProject/MyCalculatorApp/MyCalculatorApp.csproj",
+      "packagesPath": "/Users/kiran.lakhani/.nuget/packages/",
+      "outputPath": "/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kiran.lakhani/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.111/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

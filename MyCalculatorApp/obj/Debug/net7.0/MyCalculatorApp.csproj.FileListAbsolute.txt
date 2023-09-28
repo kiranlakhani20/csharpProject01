@@ -1,0 +1,15 @@
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.csproj.AssemblyReference.cache
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.AssemblyInfoInputs.cache
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.AssemblyInfo.cs
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.csproj.CoreCompileInputs.cache
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/bin/Debug/net7.0/MyCalculatorApp
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/bin/Debug/net7.0/MyCalculatorApp.deps.json
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/bin/Debug/net7.0/MyCalculatorApp.runtimeconfig.json
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/bin/Debug/net7.0/MyCalculatorApp.dll
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/bin/Debug/net7.0/MyCalculatorApp.pdb
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.dll
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/refint/MyCalculatorApp.dll
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.pdb
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/MyCalculatorApp.genruntimeconfig.cache
+/Users/kiran.lakhani/csharpProject/MyCalculatorApp/obj/Debug/net7.0/ref/MyCalculatorApp.dll
